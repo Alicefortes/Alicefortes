@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Oi Oi Oi :) Alice aqui
 :computer: Atualmente estou cursando Sistemas e Mídias Digitais na Universidade Federal do Ceará
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AliceFortes=anuraghazra&hide=contribs,prs)
 <!--
 **Alicefortes/Alicefortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
