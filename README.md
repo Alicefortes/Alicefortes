@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Oi Oi Oi! Eu me chamo Alice 
 :computer: Cursando Sistemas e Mídias Digitais na Universidade Federal do Ceará
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAlicefortesanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAlicefortes)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Alicefortes/Alicefortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
