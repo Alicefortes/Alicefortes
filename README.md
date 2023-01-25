@@ -2,7 +2,6 @@
 ### Oi Oi Oi! Eu me chamo Alice :dizzy:
 ### :computer: Estou ursando Sistemas e Mídias Digitais na Universidade Federal do Ceará :computer:
 ![546e04ff51e3f811c850e26927df8734](https://user-images.githubusercontent.com/65679612/214696480-11092289-eb65-46f9-bdf6-3af80a992a0e.gif)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceFortes&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceFortes&show_icons=true&theme=dark) 
 
 
