@@ -1,5 +1,5 @@
 
-### Oi Oi Oi! Eu me chamo Alice :dizzy:
+### Eu me chamo Alice :dizzy:
 ### :computer: Estou cursando Sistemas e Mídias Digitais na Universidade Federal do Ceará :computer:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceFortes&show_icons=true&theme=dark) 
 
