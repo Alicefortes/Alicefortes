@@ -6,7 +6,7 @@
 
   
 ![sr283365650f5aws3-ezgif com-resize](https://github.com/user-attachments/assets/e0af168e-c43e-459b-8ae0-db7c5f38d863)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 
