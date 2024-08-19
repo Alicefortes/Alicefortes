@@ -1,12 +1,8 @@
 
 ### Eu me chamo Alice :dizzy:
-### :computer: Estou cursando Sistemas e Mídias Digitais na Universidade Federal do Ceará :computer:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceFortes&show_icons=true&theme=dark) 
+Estou cursando Sistemas e Mídias Digitais na Universidade Federal do Ceará
+https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.pixilart.com%2Fart%2Fkuromi-sr2139fe50be3aws3&psig=AOvVaw2OBdfAb_0tK6eVq9tOuQqg&ust=1724169783103000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDH0o63gYgDFQAAAAAdAAAAABAp
 
-![db19fb55decc074440b5afd115016b41](https://user-images.githubusercontent.com/65679612/214698775-e89f1ded-9591-4bbf-a37d-89f7eecfc707.gif)
-
-<!--
-**Alicefortes/Alicefortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
