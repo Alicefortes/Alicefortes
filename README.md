@@ -7,6 +7,7 @@
   
 ![sr283365650f5aws3-ezgif com-resize](https://github.com/user-attachments/assets/e0af168e-c43e-459b-8ae0-db7c5f38d863)
 ![Alice GitHub stats](https://github-readme-stats.vercel.app/api?username=Alicefortes&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alicefortes&hide_progress=true&theme=midnight-purple)
 
 
 
