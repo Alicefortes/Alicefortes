@@ -1,6 +1,6 @@
 
 ### Hello, I'm Alice! :dizzy:
-- I'm studying Systems and Digital Media at the Federal University of Ceará. :mortar_board: :cherry_blossom: :purple_heart:
+-  I'm studying [Systems and Digital Media](https://smd.ufc.br/pt/) at the [Federal University of Ceará](https://www.ufc.br/). :mortar_board: :cherry_blossom: :purple_heart:
 - I'm a student and also work as a front-end developer. :computer: :rabbit:
 - I have a passion for UI/UX design. :purple_heart: :unicorn:
 <table>
