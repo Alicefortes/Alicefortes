@@ -1,10 +1,8 @@
 
-### Hello, is Alice here :dizzy:
-- **Course:** I am studying Systems and Digital Media at the Federal University of Ceará :mortar_board: :cherry_blossom: :purple_heart:
-- **Work:** Studying and working as a front-end developer :computer: :rabbit:
-- **Interests:** I also enjoy UI/UX :purple_heart: :unicorn:
-
-  
+### Hello, I'm Alice! :dizzy:
+- I'm studying Systems and Digital Media at the Federal University of Ceará. :mortar_board: :cherry_blossom: :purple_heart:
+- I'm a student and also work as a front-end developer. :computer: :rabbit:
+- I have a passion for UI/UX design. :purple_heart: :unicorn:
 <table>
   <tr>
     <td style="width: 50%;">
