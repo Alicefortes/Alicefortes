@@ -7,19 +7,17 @@
   
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/e0af168e-c43e-459b-8ae0-db7c5f38d863" alt="Alice GIF" width="300" />
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/e0af168e-c43e-459b-8ae0-db7c5f38d863" alt="Alice GIF" width="100%" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alicefortes&show_icons=true&theme=midnight-purple" alt="Alice GitHub stats" />
+    <td style="width: 50%; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Alicefortes&show_icons=true&theme=midnight-purple" alt="Alice GitHub stats" width="100%" />
       <br/>
       <a href="https://github.com/Alicefortes/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicefortes&layout=donut&theme=midnight-purple" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicefortes&layout=donut&theme=midnight-purple" alt="Top Langs" width="100%" />
       </a>
     </td>
   </tr>
 </table>
-
-
 
 
