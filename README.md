@@ -1,8 +1,12 @@
 
 ### Hello, I'm Alice! :dizzy:
--  I'm studying [Systems and Digital Media](https://smd.ufc.br/pt/) at the [Federal University of Ceará](https://www.ufc.br/). :mortar_board: :cherry_blossom: :purple_heart:
-- I'm a student and also work as a front-end developer. :computer: :rabbit:
-- I have a passion for UI/UX design. :purple_heart: :unicorn:
+- I have a degree in [Systems and Digital Media](https://smd.ufc.br/pt/) at the [Federal University of Ceará](https://www.ufc.br/). :mortar_board: :cherry_blossom: :purple_heart:
+- I work as a UI/UX designer & Front-end developer. :computer: :art:
+- I have solid experience building responsive, accessible, and clean interfaces. 🖥️:
+
+### 🛠️ Tools & Technologies:
+* **Design & Prototyping:** Figma
+* **Front-end Engineering:** HTML5, CSS3, JavaScript, Vue.js, Git & GitHub
 <table>
   <tr>
     <td style="width: 50%;">
